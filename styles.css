@@ -1,0 +1,11 @@
+#amount {
+    display: block;
+    margin: 20% 0 0 43%;
+    color: #8C9566;
+    background-color: gold;
+    font-size: 35px;
+}
+
+html {
+    background-color: gold;
+}
